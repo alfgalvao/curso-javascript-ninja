@@ -14,7 +14,7 @@ function newFunc ( arg ) {
 /*
 Imprima o segundo índice do array retornado pela função criada acima.
 */
-console.log( newFunc( newArray [1] ) ) 
+console.log( newFunc( newArray [1] ) );
 //'ninja'
 
 /*
